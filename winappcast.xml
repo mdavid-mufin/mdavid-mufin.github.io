@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.130.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://mdavid-mufin.github.io/release_notes.html</sparkle:releaseNotesLink>
-            <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/windows/must_mates-1.130.0%2B9-windows-setup.exe" length="27324166" type="application/octet-stream" sparkle:edSignature="Oubrn6rBEbyq/p9skXPkqkLd88RvN/txVQOsDSNCuJPv9NoMj5THRD0Ei8g0ifVzRCYK/5CZFEV2eg0gpjMmCA=="/>
+            <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/windows/must_mates-1.130.0%2B9-windows-setup.exe" length="0" type="application/octet-stream" sparkle:edSignature="MD0CHQCcU0YFCQYm4kOTj1V+9Xqo/00rHJqwJPDeW0jNAhxlmlEcOmTgrkv05gxi3WEwZ66Rj6iGJOwYY5sy"/>
         </item>
     </channel>
 </rss>
