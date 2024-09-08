@@ -16,7 +16,7 @@
                       length="0" 
                       type="application/octet-stream"
                       sparkle:version="1.5.5880"
-                      sparkle:edSignature="MD0CHAFQxIkZFlfVZwTP07HicjCrVSGxBUnDCUi/D5UCHQCDw1bGWSXIJGKJv0+W1pSNYok6mZpyTgRTLZ+8"/>
+                      sparkle:dsaSignature="MD0CHAFQxIkZFlfVZwTP07HicjCrVSGxBUnDCUi/D5UCHQCDw1bGWSXIJGKJv0+W1pSNYok6mZpyTgRTLZ+8"/>
         </item>
     </channel>
 </rss>
