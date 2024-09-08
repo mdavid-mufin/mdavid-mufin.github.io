@@ -8,8 +8,8 @@
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.130.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://szubair-mufin.github.io/sparkleappcast/release_notes.html</sparkle:releaseNotesLink>
-            <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/macos/mustmate-prd.1.130.0%2B9.dmg" length="27324166" type="application/octet-stream" sparkle:edSignature="Oubrn6rBEbyq/p9skXPkqkLd88RvN/txVQOsDSNCuJPv9NoMj5THRD0Ei8g0ifVzRCYK/5CZFEV2eg0gpjMmCA=="/>
+            <sparkle:releaseNotesLink>https://mdavid-mufin.github.io/release_notes.html</sparkle:releaseNotesLink>
+            <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/windows/must_mates-1.130.0%2B9-windows-setup.exe" length="27324166" type="application/octet-stream" sparkle:edSignature="Oubrn6rBEbyq/p9skXPkqkLd88RvN/txVQOsDSNCuJPv9NoMj5THRD0Ei8g0ifVzRCYK/5CZFEV2eg0gpjMmCA=="/>
         </item>
     </channel>
 </rss>
