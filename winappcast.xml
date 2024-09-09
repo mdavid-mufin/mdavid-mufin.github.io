@@ -2,20 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>MUST Mate</title>
-        <description> Most recent Updates to MustMate App</description>
+        <description> Recent Updates to MustMate App</description>
         <language>en</language>
         <item>
-            <title>1.5.5880</title>
+            <title>1.130.0</title>
             <pubDate>Sun, 08 Sep 2024 09:07:33 +0200</pubDate>
-            <sparkle:version>158</sparkle:version>
-            <sparkle:shortVersionString>1.5.5880</sparkle:shortVersionString>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.130.0</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>
                 https://mdavid-mufin.github.io/release_notes.html
             </sparkle:releaseNotesLink>
             <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/windows/must_mates-1.130.0%2B9-windows-setup.exe" 
                       length="0" 
                       type="application/octet-stream"
-                      sparkle:version="1.5.5880"
                       sparkle:dsaSignature="MD0CHAFQxIkZFlfVZwTP07HicjCrVSGxBUnDCUi/D5UCHQCDw1bGWSXIJGKJv0+W1pSNYok6mZpyTgRTLZ+8"/>
         </item>
     </channel>
