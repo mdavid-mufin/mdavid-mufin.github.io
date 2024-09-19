@@ -5,15 +5,15 @@
         <description> Recent Updates to MustMate App</description>
         <language>en</language>
         <item>
-            <title>1.139.0</title>
-            <pubDate>Thu, 16 Sep 2024 14:07:33 +0200</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>1.139.0</sparkle:shortVersionString>
+            <title>1.141.0</title>
+            <pubDate>Thu, 19 Sep 2024 12:07:33 +0200</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.141.0</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>
                 https://mdavid-mufin.github.io/release_notes.html
             </sparkle:releaseNotesLink>
-            <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/windows/must_mates-1.139.0%2B15-windows-setup.exe" 
-                      sparkle:dsaSignature="MD0CHQCNvXmBIcnf3jNkPk6KibOV9kCQzYZ2UGZtYZaJAhxNZA1okusIGQ/ZO23Un45MNq84eOG8ezXfbnFt"
+            <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/windows/must_mates-1.141.0%2B16-windows-setup.exe" 
+                      sparkle:dsaSignature="MD0CHDi0X4CKlTRRoMTIOkVEzJf0Fxil3FTL81ynUoACHQCKm3yWjGsoyzJQf8hHB1Ai+sZK4qkRA+MFGnTp"
                       sparkle:os="Windows"
                       sparkle:version="1.139.0+15"
                       length="0" 
