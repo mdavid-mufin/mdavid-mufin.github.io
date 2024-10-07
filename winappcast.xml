@@ -5,19 +5,22 @@
         <description> Recent Updates to MustMate App</description>
         <language>en</language>
         <item>
-            <title>1.141.0</title>
-            <pubDate>Thu, 19 Sep 2024 12:07:33 +0200</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.141.0</sparkle:shortVersionString>
+            <title>1.145.1</title>
+            <pubDate>Sun, 06 Oct 2024 12:07:33 +0200</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.145.1</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>
                 https://mdavid-mufin.github.io/release_notes.html
             </sparkle:releaseNotesLink>
-            <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/windows/must_mates-1.141.0%2B16-windows-setup.exe" 
-                      sparkle:dsaSignature="MD0CHDi0X4CKlTRRoMTIOkVEzJf0Fxil3FTL81ynUoACHQCKm3yWjGsoyzJQf8hHB1Ai+sZK4qkRA+MFGnTp"
+            <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/windows/must_mates-1.145.1%2B17-windows-setup.exe" 
+                      sparkle:dsaSignature="MD0CHDlaF9K+k2891k2+UYCtpS+Xvm1T5JDqFfUmhs0CHQCEDjvhoy8rX1GkQSnGyhXLREulNpNldL3g4EIc"
                       sparkle:os="Windows"
-                      sparkle:version="1.141.0+16"
+                      sparkle:version="1.145.1+17"
                       length="0" 
-                      type="application/octet-stream"/>
+                      type="application/octet-stream"
+            />
         </item>
     </channel>
 </rss>
+
+// 0796865676    // fred 
