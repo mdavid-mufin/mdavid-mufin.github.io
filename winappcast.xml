@@ -1,25 +1,19 @@
-<?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>MUST Mate</title>
-        <description> Recent Updates to MustMate App</description>
-        <language>en</language>
-        <item>
-            <title>1.170.0</title>
-            <pubDate>Wed, 04 Dec 2024 14:36:33 +0200</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>1.170.0</sparkle:shortVersionString>
-            <sparkle:releaseNotesLink>
-                https://mdavid-mufin.github.io/release_notes.html
-            </sparkle:releaseNotesLink>
-            <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/windows/must_mates-1.170.0%2B35-windows-setup.exe" 
-                      sparkle:dsaSignature="MDwCHHsTyWfpoTzmCBcXf7IeXa5x36OLBJy4T5HL29QCHD207BVvyiRdeB0EQhWJRsGv1V5Qf7DIDjICMzY="
-                      sparkle:os="Windows"
-                      sparkle:version="1.170.0+35"
-                      length="0" 
-                      type="application/octet-stream"
-            />
+            <item>
+            <title>1.173.0</title>
+            <pubDate>Tue, 10 Dec 2024 09:07:33 +0500</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>1.173.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>1.173.0</sparkle:minimumSystemVersion>
+            <!--  Minimum Windows version (Windows 10)  -->
+            <sparkle:releaseNotesLink>...release_notes.html</sparkle:releaseNotesLink>
+            <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/windows/mustmate-prd.1.173.0%2B38.exe" 
+                length="0" 
+                type="application/octet-stream"
+                sparkle:version="1.173.0+38"
+                sparkle:edSignature="MDwCHGhvTfurGE6g/06UW8+ka/OB/nW9D7VIOYOH0yUCHEXX2g9b33IcXaXAnUNrtDbsmfXaqvualGe04tA="/>
         </item>
     </channel>
 </rss>
-
