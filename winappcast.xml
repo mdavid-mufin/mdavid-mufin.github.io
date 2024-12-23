@@ -9,8 +9,7 @@
             <sparkle:version>43</sparkle:version>
             <sparkle:shortVersionString>1.178.0</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>
-                .....release_notes.html           
-            </sparkle:releaseNotesLink>
+            https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/release_notes.html            </sparkle:releaseNotesLink>
             <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/windows/must_mates-1.178.0%2B43-windows-setup.exe" 
                       sparkle:dsaSignature="MDwCHEwTwvmvhzrAUuUvu3fkydRqdWTHm+sG3gvREmICHHw7cpHGNR5vq2RG1j/+iIzUWz3E3Us6i0uEq8Q="
                       sparkle:os="Windows"
