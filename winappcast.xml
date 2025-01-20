@@ -12,10 +12,10 @@
             https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/release_notes.html
             </sparkle:releaseNotesLink>
             <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/windows/must_mates-1.181.0%2B46-windows-setup.exe" 
-                        sparkle:dsaSignature="MD0CHFp63AOmgnDqqFpaeIcZPQoFEXlEKS+mDoyQ0B8CHQCgwljXOcZ597H2L3n8RK6vvm5cMyk24P+9DYwc"                      
+                    sparkle:dsaSignature="MD0CHFp63AOmgnDqqFpaeIcZPQoFEXlEKS+mDoyQ0B8CHQCgwljXOcZ597H2L3n8RK6vvm5cMyk24P+9DYwc"                      
                     sparkle:os="Windows"
-                     length="0"
-                      type="application/octet-stream"
+                    length="0"
+                    type="application/octet-stream"
             />
         </item>
     </channel>
