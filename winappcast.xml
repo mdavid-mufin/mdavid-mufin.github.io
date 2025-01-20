@@ -12,8 +12,7 @@
             https://mdavid-mufin.github.io/release_notes.html
             </sparkle:releaseNotesLink>
             <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/windows/must_mates-1.181.0%2B46-windows-setup.exe" 
-                      sparkle:dsaSignature="MDwCHE/lqw8mSopLei3EQjXax4rGfBCbpp2NZ5uurhICHCSOBgyNydEy7hoLiGA0NCaIXuP0jQWdYHOeGs4=" 
-                      sparkle:os="Windows"
+sparkle:dsaSignature="MDwCHADbK2b1F03kxL77lb3vOvvBn2paU7s6sxQxwWQCHCi+xJ4Z0nSl5hzp+A3PnW6ZNIgTBMGusXrDzWc="                      sparkle:os="Windows"
                       sparkle:version="1.181.0+46"
                       length="0" 
                       type="application/octet-stream"
