@@ -13,7 +13,7 @@
             https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/release_notes.html
             </sparkle:releaseNotesLink>
             <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/windows/must_mates-1.217.0%2B72-windows-setup.exe" 
-                    sparkle:dsaSignature="MD0CHQCp+pCmQOMKVRAzvWh4fg5gmGDRIbaDUhzhPwe1AhwCravCS4sr4nISGhHdLKcztNP/HqNRRLYsfuHR"                      
+                    sparkle:dsaSignature="MDwCHBOaPPQ2yOwfMKQYotvOS480JbPRH1hVEHXUJCICHHvC8KwnLH8hRLGFVdz+CgItkqqFze0P8b7tvS8="                      
                     sparkle:os="Windows"
                     sparkle:version="1.217.0+72"
                     length="0"
