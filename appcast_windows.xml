@@ -4,21 +4,21 @@
         <title>MUST Mate</title>
         <description>Recent Updates to MustMate App</description>
         <language>en</language>
-                <item>
-            <title>1.335.3</title>
-            <pubDate>Tue, 07 Jan 2026 12:01:11 +0200</pubDate>
-            <sparkle:version>92</sparkle:version>
-            <sparkle:shortVersionString>1.335.3</sparkle:shortVersionString>
+        <item>
+            <title>2.0.0</title>
+            <pubDate>Thu, 05 Feb 2026 08:06:36 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>
             https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/release_notes.html
             </sparkle:releaseNotesLink>
-            <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/windows/must_mates-1.335.3%2B92-windows-setup.exe" 
-                    sparkle:dsaSignature="MDwCHD+BWWuPjKqNIW02HobWjRMcVuLLjz7ElXE4TCoCHEqK6ydPxnGuwrU37CVU9R+RIIgIhAIelvWB6I0="                      
+            <enclosure url="https://prd-must-mate-static-content.s3.ap-northeast-2.amazonaws.com/builds/windows/must_mates-2.0.0%2B1-windows-setup.exe" 
+                    sparkle:dsaSignature="MDwCHHtK8wOHT78arKyhrYFqkGbQJjjnR1US5RFQWBACHEY4yctk9aaiStRgq4AEEWU/lvoidieybuNYGaI="                      
                     sparkle:os="Windows"
-                    sparkle:version="1.335.3+92"
-                    length="0"
+                    sparkle:version="2.0.0+1"
+                    length="15708235"
                     type="application/octet-stream"
             />
         </item>
     </channel>
-</rss> 
+</rss>
